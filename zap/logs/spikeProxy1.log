@@ -1,0 +1,15 @@
+{"level":"info","time":"2021-01-07T18:27:19.173+0800","linenum":"F:/go-workspace/go_standard_doc/zap/main.go:60","msg":"hello zap","serviceName":"serviceName"}
+{"level":"info","time":"2021-01-07T18:28:20.123+0800","linenum":"F:/go-workspace/go_standard_doc/zap/main.go:60","msg":"hello zap","serviceName":"hippo-server"}
+{"level":"info","time":"2021-01-07T18:30:16.929+0800","linenum":"F:/go-workspace/go_standard_doc/zap/main.go:63","msg":"hello zap","serviceName":"hippo-server","uid":3688}
+{"level":"info","time":"2021-01-07T18:32:52.881+0800","linenum":"F:/go-workspace/go_standard_doc/zap/main.go:63","msg":"hello zap","serviceName":"hippo-server","uid":3688}
+{"level":"info","time":"2021-01-07T18:33:10.545+0800","linenum":"F:/go-workspace/go_standard_doc/zap/main.go:63","msg":"hello zap","serviceName":"hippo-server","uid":3688}
+2021-01-07T19:38:16.988+0800	info	F:/go-workspace/go_standard_doc/zap/main.go:64	hello zap	{"serviceName": "hippo-server", "uid": 3688, "aaa": "bbb"}
+{"level":"info","time":"2021-01-07T19:38:37.438+0800","linenum":"F:/go-workspace/go_standard_doc/zap/main.go:64","msg":"hello zap","serviceName":"hippo-server","uid":3688,"aaa":"bbb"}
+{"level":"info","time":"2021-01-08T10:31:41.068+0800","linenum":65,"msg":"hello zap","serviceName":"hippo-server","uid":3688,"aaa":"bbb"}
+2021-01-08T10:42:16.000+0800	info	67	hello zap	{"serviceName": "hippo-server", "uid": 3688, "aaa": "bbb"}
+2021-01-08T10:43:30.948+0800|info|68|hello zap|{"serviceName": "hippo-server", "uid": 3688, "aaa": "bbb"}
+2021-01-08T10:45:55.530+0800|info|68|F:/go-workspace/go_standard_doc/zap/main.go:68|hello zap|{"serviceName": "hippo-server", "uid": 3688, "aaa": "bbb"}
+{"level":"info","time":"2021-01-08T10:47:05.932+0800","linenum":68,"F:/go-workspace/go_standard_doc/zap/main.go:68","msg":"hello zap","serviceName":"hippo-server","uid":3688,"aaa":"bbb"}
+{"level":"info","time":"2021-01-08T10:55:25.115+0800","linenum":68,"F:/go-workspace/go_standard_doc/zap/main.go:68","msg":"hello zap","serviceName":"hippo-server","uid":3688,"aaa":"bbb"}
+{"level":"info","time":"2021-01-08T12:54:00.761+0800","linenum":70,"F:/go-workspace/go_standard_doc/zap/main.go:70","msg":"hello zap","serviceName":"hippo-server","uid":3688,"aaa":"bbb"}
+{"level":"info","time":"2021-01-08T12:54:00.773+0800","linenum":16,"F:/go-workspace/go_standard_doc/zap/main.go:16","msg":"test","serviceName":"hippo-server","uid":3688}

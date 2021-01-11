@@ -1,0 +1,9 @@
+{"[level]":"INFO","[ts]":"[2021-01-07 18:45:53]","[file]":"zap-log-test/main.go:49","[msg]":"test info"}
+{"[level]":"INFO","[ts]":"[2021-01-07 18:56:04]","[file]":"zap-log-test/main.go:48","[msg]":"test info"}
+{"level":"info","time":"[2021-01-07 19:44:15]","file":"zap-log-test/main.go:48","msg":"test info"}
+{"level":"info","time":"2021-01-07 19:44:39","file":"zap-log-test/main.go:48","msg":"test info"}
+2021-01-08 11:05:06	info	zap-log-test/main.go:48	test info
+2021-01-08 11:06:16|info|F:/go-workspace/go_standard_doc/zap-log-test/main.go:49|test info
+2021-01-08 11:08:10|info|F:/go-workspace/go_standard_doc/zap-log-test/main.go:54|test info|{"serviceName": "hippo-server", "uid": 3688}
+2021-01-08 11:12:24|info|F:/go-workspace/go_standard_doc/zap-log-test/main.go:60|F:/go-workspace/go_standard_doc/zap-log-test/main.go|60|test info|{"serviceName": "hippo-server", "uid": 3688}
+2021-01-08 11:12:58|info|F:/go-workspace/go_standard_doc/zap-log-test/main.go|58|test info|{"serviceName": "hippo-server", "uid": 3688}
